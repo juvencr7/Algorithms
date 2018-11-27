@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Suduko Solver</string>
+    <string name="solve_btn">Solve</string>
+    <string name="reset_btn">Reset</string>
+</resources>
